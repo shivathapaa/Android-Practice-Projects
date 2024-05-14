@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="in_card_text_padding_small">4dp</dimen>
+    <dimen name="in_card_text_padding_medium">5dp</dimen>
+    <dimen name="in_card_text_padding_large">6dp</dimen>
+
+    <dimen name="small_padding">6dp</dimen>
+    <dimen name="medium_padding">8dp</dimen>
+    <dimen name="large_padding">16dp</dimen>
+
+    <dimen name="image_height">170dp</dimen>
+    <dimen name="introduction_image_height">220dp</dimen>
+
+</resources>

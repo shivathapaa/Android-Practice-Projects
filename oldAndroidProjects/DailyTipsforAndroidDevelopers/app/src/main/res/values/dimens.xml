@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_box_top">8dp</dimen>
+    <dimen name="image_box_bottom">8dp</dimen>
+    <dimen name="card_content">16dp</dimen>
+    <dimen name="card_content_top">8dp</dimen>
+    <dimen name="card_height">720dp</dimen>
+    <dimen name="card_horizontal_padding">16dp</dimen>
+    <dimen name="card_vertical_padding">8dp</dimen>
+    <dimen name="title_bottom">6dp</dimen>
+</resources>

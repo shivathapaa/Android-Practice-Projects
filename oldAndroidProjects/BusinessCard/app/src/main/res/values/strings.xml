@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Shiva Thapa</string>
+    <string name="title">Developer</string>
+    <string name="phone_number">+977 9843805352</string>
+    <string name="github_link">https://github.com/shivathapaa</string>
+    <string name="email">shivathapaa.dev@gmail.com</string>
+</resources>

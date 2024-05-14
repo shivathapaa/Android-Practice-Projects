@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="delete">Delete</string>
+    <string name="start_typing">Start typing</string>
+    <string name="title">Title</string>
+    <string name="back">Back</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="notes">Notes</string>
+    <string name="todos">Todos</string>
+    <string name="add_note">Add note</string>
+    <string name="no_text">No text</string>
+    <string name="edit">Edit</string>
+    <string name="grid_layout">Grid layout</string>
+    <string name="list_layout">List layout</string>
+    <string name="all">All</string>
+    <string name="search">Search</string>
+    <string name="search_your_notes">Search your notes</string>
+    <string name="search_your_todos">Search your todos</string>
+    <string name="go_back">Go Back</string>
+    <string name="close">Close</string>
+    <string name="add_todo">Add todo</string>
+    <string name="cancel">Cancel</string>
+    <string name="tap_enter_to_create_subtask">Tap "Enter" to create subtask.</string>
+    <string name="set_reminder">Set reminder</string>
+    <string name="select_time">"Select Time "</string>
+    <string name="enter_time">Enter Time</string>
+    <string name="pick_time">Pick Time</string>
+    <plurals name="notes">
+        <item quantity="one">%d note</item>
+        <item quantity="other">%d notes</item>
+    </plurals>
+    <plurals name="characters">
+        <item quantity="one">%d character</item>
+        <item quantity="other">%d characters</item>
+    </plurals>
+</resources>

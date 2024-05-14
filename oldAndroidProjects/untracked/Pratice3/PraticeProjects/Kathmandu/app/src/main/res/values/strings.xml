@@ -1,0 +1,342 @@
+<resources>
+    <string name="app_name">Kathmandu</string>
+
+    <string name="kathmandu_city">Kathmandu</string>
+    <string name="capital_of_nepal">Capital of Nepal</string>
+    <string name="introduction_of_kathmandu">Kathmandu, officially Kathmandu Metropolitan City, is the capital and most populous city of Nepal with 845,767 inhabitants living in 105,649 households as of the 2021 Nepal census and 2.9 million people in its urban agglomeration. It is located in the Kathmandu Valley, a large valley in the high plateaus in central Nepal, at an altitude of 1,400 metres (4,600 feet).\n The city is one of the oldest continuously inhabited places in the world, founded in the 2nd century AD. The valley was historically called the \"Nepal Mandala\" and has been the home of the Newar people, a cosmopolitan urban civilization in the Himalayan foothills. The city was the royal capital of the Kingdom of Nepal and hosts palaces, mansions and gardens built by the Nepali aristocracy. It has been home to the headquarters of the South Asian Association for Regional Cooperation (SAARC) since 1985. Today, it is the seat of government of the Federal Democratic Republic of Nepal, established in 2008, and is part of Bagmati Province.\nKathmandu is and has been for many years the centre of Nepal\'s history, art, culture, and economy. It has a multi-ethnic population within a Hindu and Buddhist majority. Religious and cultural festivities form a major part of the lives of people residing in Kathmandu. Tourism is an important part of the economy in the city. In 2013, Kathmandu was ranked third among the top ten upcoming travel destinations in the world by TripAdvisor, and ranked first in Asia. The city is considered the gateway to the Nepal Himalayas and is home to several World Heritage Sites: the Durbar Square, Swayambhu Mahachaitya, Bouddha and Pashupatinath. Kathmandu valley is growing at 4 per cent per year according to the World Bank in 2010, making it one of the fastest-growing metropolitan areas in South Asia, and the first region in Nepal to face the unprecedented challenges of rapid urbanization and modernization at a metropolitan scale. It is the largest metropolitan area located in the Himalayas.</string>
+    <string name="visit_city">Visit</string>
+    <string name="back_button">Back Button</string>
+
+    <string name="out_of_rate">"/5"</string>
+
+    <string name="categories">Famous in City</string>
+    <string name="description">Description:</string>
+    <string name="info">Info:</string>
+    <string name="contact">Contact:</string>
+    <string name="location">Location:</string>
+    <string name="time">Time:</string>
+    <string name="highlights">Highlights:</string>
+    <string name="features">Features:</string>
+    <string name="details">Details:</string>
+    <string name="rating">Rating:</string>
+
+
+<!--    Art Galleries in Kathmandu-->
+
+    <string name="art_gallery">Art Gallery</string>
+
+    <string name="siddhartha_art_gallery">Siddhartha Art Gallery</string>
+    <string name="siddhartha_art_gallery_description">This art gallery was established by Sangeeta Thapa and Shashikala Tiwari, on 27th September 1987 as a convergence point for artists from Nepal and abroad. The Siddhartha Art Gallery has played an instrumental role in bringing overseas artistic ideas to Nepal, and in particular, Kathmandu. It has also acted as the promoter of contemporary Nepalese art in Kathmandu. With the belief that culture is an inalienable part of the development at its core, this gallery has always strived to bring together artists, poets and musicians. \'Investing in creativity\' is the gallery\'s motto. It has even made generous donations for the Red Cross Earthquake Relief Fund, renovation of the Krishna Mandir in Patan and for the construction of the Maternity Ward for Underprivileged Mothers in Prasuti Griha Hospital.</string>
+    <string name="siddhartha_art_gallery_location">This gallery is located in the magnificent Baber Mahal Revisited complex. It also conducts its programmes in the National Association of Fine Arts, the Arts Council, Patan Museum, Kathmandu University Department of Fine Art and Design, Bhaktapur and has also conducted several art projects in various hotels:Hotel de l\' Annapurna, Everest Hotel, Soaltee Oberoi, Hyatt Regency, Bhanchha Ghar, Imago dei\' Gallery and Café Mitra.</string>
+    <string name="siddhartha_art_gallery_exhibition">Artists and Exhibitions: The Siddhartha Art Gallery has the credit of holding about 315 exhibitions over the past 35 years. These include the retrospective exhibitions by the late Amar Chitrakar, Karna Narsingh Rana, Shashikala Tiwari, Ragini Upadhyay-Grela, Uttam Nepali, Shashi Shah and the late Tej Bahadur Chitrakar. It launched \'Celebrating Line\', the first ever exhibition of drawings in the capital, an influential anti-conflict exhibition by the eminent artist from Pokhara, Durga Baral and an exhibition by the celebrated Bombay based artist Laxman Shrestha. The Gallery has also organised exhibitions of Nepali artists in London, India and Pakistan. At present, the Gallery is collaborating with GTZ, and is working on its third community art project \"Whose City is this?\"  </string>
+    <string name="siddhartha_art_gallery_timing">The gallery is open to art lovers from 11:00 AM to 5:00 PM (Sunday to Friday). On Saturdays, it is open from 12:00 PM to 5:00 PM.</string>
+    
+    <string name="artudio_art_gallery"> Artudio Centre for Visual Art</string>
+    <string name="artudio_art_gallery_description">This gallery provides a contemporary art platform for art enthusiasts. The celebrated contemporary artist Kailash Shrestha started it. The community of artists here considers art to be \'dharma\' and believe in coexistence. People here are artists, art educators, designers, visual communicators, initiators, curators and makers. Founded in 2010, the gallery provides a space for art lovers from various genres to explore art and creativity, thereby fostering social transformation. Artudio houses a studio, an art platform, an art centre, a studio apartment and a gallery. It has even played a leading role in imparting visual art education by holding various workshops on drawing, photography, printmaking, painting and other forms of multimedia. The most famous are ArtSaturday and Little Picasso.</string>
+    <string name="artudio_art_gallery_location">This leading art gallery of Kathmandu is located in Swoyambhu.</string>
+    <string name="artudio_art_gallery_exhibition">Artudio Centre for Visual Art has been a pioneer in organising various exhibitions. It curated an exhibition by nine artists in the first ever Kathmandu Art Fair 2018 from 3rd March to 12th March 2018. Artists who featured their works included Kailash K Shrestha, Krisha Tarakar, Karma Tsering Gurung, Pawan Joshi, Srijaya Shrestha, Agrani Thakuri Jhan, Rupesh Man Singh and Deepa Shrestha. Other exhibitions include The Little Album, You are the Observer by Lena Koestler (a solo exhibition) and Spectrum, a fundraising photo exhibition.</string>
+    <string name="artudio_art_gallery_timing">The gallery is open on all days of the week from 7:00 AM to 7:00 PM.</string>
+
+    <string name="sarwanam_art_gallery">Sarwanam Art Gallery</string>
+    <string name="sarwanam_art_gallery_description">The Sarwanam group has served as a melting pot for different art forms in Nepal, basically performing arts and theatre. The esteemed playwright Ashesh Malla started the renowned theatre space in 1982. The Sarwanam Art Gallery is considered to be an offspring of the Sarwanam theatre group. Also known as \'kaladeergha\', this spacious art gallery sprawls over an area of the 30-metre square and features art pieces of talented artists from all genres. Here, you will also be allowed to see the artists at work and ask them questions about the art pieces.</string>
+    <string name="sarwanam_art_gallery_location">The Sarwanam Art Gallery is located in Kalikasthan Bashghyang, Kalika Marg.</string>
+    <string name="sarwanam_art_gallery_exhibition">The gallery has shown the works of emerging Nepalese artists Bidhata KC and Saran Tandukar. It even collaborated with the Sarwanam theatre on a unique project amalgamating both art and drama where the esteemed abstract artist Mukesh Mulla painted a live picture of the ongoing Mrityutsav play. The Story of Mithila Art was a solo exhibition organised by the gallery displaying 22 paintings of Poonam Kumari Das. Another solo exhibition \'Tuli\' by Shailesh Gurung was held in 2015. The gallery even organised \'Kalyana\' in 2016.</string>
+    <string name="sarwanam_art_gallery_timing">The gallery is open from 7:00 AM to 7:00 PM on all days of the week.</string>
+
+    <string name="nepal_academy_art_gallery">Nepal Academy of Fine Arts</string>
+    <string name="nepal_academy_art_gallery_description">Nepal Academy of Fine Arts (NAFA) is the umbrella organisation of artists, art researchers and art critics in Nepal. It was formed on 13th April 2010 to establish an autonomous body of art and Nepali artists. It has served as a pedestal for artists all over Nepal for voicing their opinions on various social issues. Multiple genres of art are promoted here - these consist of paintings, sculptures, handicraft, folk art, architecture, traditional art, contemporary art, alternative art, video art, performance and installation art. In order to encourage qualitative research in the history of Nepali art, the academy even grants fellowships and scholarships. Its museum is a storehouse of all artworks from past to present and is an invaluable source of information on traditional and contemporary Nepali art in paintings, sculptures, and handicraft.</string>
+    <string name="nepal_academy_art_gallery_location">This nodal art gallery is situated in Sita Bhawan, Naxal.</string>
+    <string name="nepal_academy_art_gallery_exhibition"> The art gallery of NAFA display the brilliant works of both national and international artists. It has hosted four National Fine Art Exhibitions since its inception. Past exhibitions include the Mithila Folklore Exhibition, National Solidarity Exhibition, Dharan Art Workshop and the Cartoon Workshop.</string>
+    <string name="nepal_academy_art_gallery_timing">The gallery is open from 10:00 AM to 5:00 PM on all days. It remains closed on Saturdays.</string>
+
+    <string name="himalayan_art_gallery">Himalayan Art Gallery</string>
+    <string name="himalayan_art_gallery_description">This art gallery is a small beautiful world full of Himalayan art and artefacts. About three decades old, this gallery is located in the heart of Kathmandu. It primarily houses amazing antiques from Tibet. People who are into collecting quaint artworks from different places will find this gallery to be a heaven. The rare artefacts from Tibet and Himalayas have been preserved here with a lot of care. Moreover, special assistance is even provided to the customers in making the right choice. The owner guarantees the quality and authenticity of these ancient pieces.</string>
+    <string name="himalayan_art_gallery_location">The Himalayan Art Gallery is located in Ashok Galli, Thamel.</string>
+    <string name="himalayan_art_gallery_exhibition">The gallery is owned and taken care of by Bijay Lama Moktan, whose passion for collecting classic artwork of Tibet culminated in a profit-making business of selling these collected items. The Himalayan Art Gallery proudly boasts of a beautiful collection of Tibetan artefacts and has one of the largest and the best assortment of Tibetan antique furniture. The Thangka paintings, (Tibetan Buddhist paintings made on silk or cotton) are quite lovely here and even a good buy.</string>
+    <string name="himalayan_art_gallery_timing">The gallery is open from 6:30 AM to 10:15 PM on all days except Saturday. It remains closed on Saturdays.</string>
+
+    <string name="universal_art_gallery">Universal Art Gallery</string>
+    <string name="universal_art_gallery_description">This magnificent art gallery has a vast collection of landscape paintings, portraits, heritage and street paintings, watercolour paintings, abstract paintings and Nepali handicraft. It was founded in 1989 and has since then worked tirelessly towards satisfying the expectations of art lovers and art enthusiasts. The gallery even holds the distinction of being one of the oldest Thangka Gallery of Thamel in Kathmandu. All the paintings here are handmade, strictly observing the traditional guidelines of Thangka paintings. The owner, Bikash Shahi, is also a renowned businessman of Thamel and endeavours to provide the best services to his customers.</string>
+    <string name="universal_art_gallery_location"> The gallery is situated in Narsingh Chowk Marg in Thamel.</string>
+    <string name="universal_art_gallery_exhibition">The gallery has an extensive collection of paintings of different genres and styles. The curated sketches here include the works of such notable artists as A.Jabbar, Basudev Thapa, Purna Wanem, Sanjeeb Maharjan, Tek Rai, Dil Kumar Gorkhali, Anup B.K. and Uddhav Raj Riman. The artistic acumen of these people are quite commendable. Moreover, the paintings here are available at reasonable prices.</string>
+    <string name="universal_art_gallery_timing">The gallery is open on all days of the week from 7:00 AM to 9:00 PM.</string>
+
+    <string name="twentyFirst_century_art_gallery">21st Century Art Gallery</string>
+    <string name="twentyFirst_century_art_gallery_description">This attraction point was established in the year 2000 due to the sincere and coordinated efforts of Manoj Kumar Shrestha and Pramod Kumar Shrestha. Another blessed artist Gunjan Shrestha joined them in 2003. This gallery has a range of exquisite paintings created by the founders. The gallery has never failed to see an expression of wonder on its visitors\' faces.</string>
+    <string name="twentyFirst_century_art_gallery_location">This gallery is located in Satghumti, Thamel.</string>
+    <string name="twentyFirst_century_art_gallery_exhibition">The fantastic pieces here are created and curated by the three founders. There is a wide range of paintings including abstracts, cities, mountains and semi-abstracts. The gallery is a must in case you are in Thamel. You will be left in complete awe of the beautiful pieces here.</string>
+    <string name="twentyFirst_century_art_gallery_timing">The 21st Century Art Gallery is open from 9:00 AM to 8:00 PM on all days of the week.</string>
+
+<!--    Temples in Kathmandu-->
+    
+    <string name="temples">Temples</string>
+
+    <string name="pashupatinath_temple">Pashupatinath Temple</string>
+    <string name="pashupatinath_temple_description">The oldest Hindu temple at the heart of Kathmandu capital is situated at the bank of Bagmati river. It was erected during 5th century and has manuscript from 11th century.</string>
+    <string name="pashupatinath_temple_details">Numerous temples has been built over the years around Pagoda style main temple and it has established itself as one of the busiest open crematory for Hindus placing itself into the World Heritage Sites. The temple is visited by thousands of Lord Shiva’s devotees in Shivaratri festival from all over the nation and also neighboring country India.</string>
+
+    <string name="swoyambhunath_stupa">Swoyambhunath Stupa</string>
+    <string name="swoyambhunath_stupa_description">At the top of greenish hill west of Kathmandu city, Buddhist and Hindus common religious sites stands magnificently flaunting colorful prayer flags as Swoyambhunath stupa.</string>
+    <string name="swoyambhunath_stupa_details"> The  ancient architecture has a wonderful white dome , cubical structure with eyes and number one in devanagari painted and also Hindu temple Haratima. Along with various sculptures of Buddhas you can get sight of big Bajra, prayers wheels and monkeys.</string>
+
+    <string name="krishna_mandir">Krishna Mandir</string>
+    <string name="krishna_mandir_description">The city of fine arts; Patan has wonderful collection of art and architecture and Krishna Mandir is the finest one.</string>
+    <string name="krishna_mandir_details">The temple has 21 pinnacles in its perfect Shikhara style and one shall wonder at the marvelous wood carvings of the temple.</string>
+
+    <string name="nyatapola_temple">Nyatapola Temple</string>
+    <string name="nyatapola_temple_decription">Built in 1702 A.D, the beautiful tallest pagoda temple, Nyatapola temple refers to the architecture with five-tier roofs.</string>
+    <string name="nyatapola_temple_details">The temple is situated in Bhaktapur Durbar Square, one of the best world heritage sites. Each and every carvings on its pillars and roofs reflects  a  different charisma of Nepalese crafts.</string>
+    
+    <string name="changunarayan_temple">Changunarayan Temple</string>
+    <string name="changunarayan_temple_description">The Changunarayan temple is the oldest temple in the history of Nepal. Located at the hilltop in Bhaktapur district, the temple is dedicated to lord Bishnu.</string>
+    <string name="changunaraya_temple_details">With its distinct architect from Sikhara and Pagoda style, the temple boasts Nepali crafts. The stone inscription and wodden pillars with symbols and carvings are jewel of the temple.</string>
+
+    <string name="dattatreya_temple">Dattatreya Temple</string>
+    <string name="dattatreya_temple_description">The beautiful temple of Dattatreya in Bhaktapur Durbar Square was built in 1427 AD from the stem of single tree.</string>
+    <string name="dattatreya_temple_details"> The temple is dedicated to the three supreme Hindu deities; Shiva , Bishnu and Brahma. Carvings on woods are the attraction of this gorgeous temple.</string>
+
+    <string name="chandeshwori_temple">Chandeshwori Temple</string>
+    <string name="chandeshwori_temple_description">Goddess Chandeshwori is considered the avatar of Hindu goddess Kumari. The Chandeshwori temple is situated just outside Banepa, east of Kathmandu.The temple has mural depicting the Goddess Chandeshwori slaying the demon Chanda.</string>
+    <string name="chandeshwori_temple_details">The lord Bhairav painting on one of the wall of this temple is the biggest graffiti of Nepal Mandala. To no wonder, the temple also has wonderful wooden carves.</string>
+
+    <string name="budhanilkantha_temple">Budhanilkantha Temple</string>
+    <string name="budhanilkantha_temple_description">The “Old blue throat” temple in Kathmandu is one of the holiest destinations for Hindus. The temple has biggest stone carving of Lord Bishnu on a single rock Basalt.</string>
+    <string name="budhanilkanthan_temple_details">Well, to your surprise the temple is also popular among Buddhists and great religious harmony is demonstrated here.</string>
+
+<!--    Temples outside of Kathmandu-->
+
+    <string name="other_popular_temples_outside_kathmandu_valley">Some popular temples outside Kathmandu Valley</string>
+
+    <string name="janaki_temple">Janaki Temple</string>
+    <string name="janaki_temple_description">The Janaki temple is a masterpiece of mixed Moghul and Koiri style architecture in Nepal. It is situated in southern part of country in Janakpur district. </string>
+    <string name="janaki_temple_details">The temple dedicated to Sita; spousal and feminine virtues for all women highly exhibits the richness of Nepalese arts. The temple built in 4860 sq. ft with three storied structure of stone and marble has 60 rooms, all decorated with Nepalese flags, engravings, glass and paintings. Pilgrims from India, Sri lanka and all over Nepal get together during Bibaha Panchami, a festival to remark marriage of Lord Ram and Sita.</string>
+
+    <string name="manakamana_temple">Manakamana Temple</string>
+    <string name="manakamana_temple_description">The wish fulfilling sacred temple is a popular destination among Nepalese and Hindu devotees. The temple is situated in Gorkha district, and offers a panoramic view of ranges like Manaslu, Himchuli and Annapurna. The cable car ride of 2.8 KM to reach Manakamana temple is exciting and the 17th century temple also mesmerizes with its incenses cloaked surrounding.</string>
+
+    <string name="talbarahi_temple">Talbarahi Temple</string>
+    <string name="talbarahi_temple_description">The Talbarahi temple is holy place for religious harmony. When you meander the lakecity of Pokhara, don’t forget to gaze at the beautiful temple situated in the small island of Phewa Lake. The temple is dedicated to Goddess Durga, protector of Gods.</string>
+
+
+<!--    Movie Halls inside Kathmandu -->
+
+    <string name="movie_threatre">Movie Theatre</string>
+
+    <string name="qfx_cinemas">QFX Cinemas</string>
+    <string name="qfx_cinemas_description">It is a cinema chain in Nepal with theatres in major cities of Nepal. It features Nepali movies as well as Bollywood and Hollywood movies. QFX cinemas are so far the most preferred cinemas in the city with outlets in various locations and online booking and payment options which makes it more convenient for customers to make their bookings and purchase.</string>
+    <string name="qfx_cinemas_location">Civil Mall (Sundhara), Labim Mall (Pulchowk), Kumari Hall (Putalisadak), Jai Nepal Hall</string>
+    <string name="qfx_cinemas_contact">Contact: 01–4442220</string>
+    
+    <string name="big_movies">Big Movies</string>
+    <string name="big_movies_description">Big Movies is one of the best and Nepal’s First Multiplex operated by Bishal Group. It has 3 screens with a capacity of 870 seats providing world-class auditorium with Barco 2K latest Digital Projector Systems, Crystal Clear DTS sound, luxurious and comfortable seats and a wide-screen viewing experience.</string>
+    <string name="big_movies_location">City Center Mall, Kamalpokhari</string>
+    <string name="big_movies_contact">Contact: 01–4011645</string>
+
+    <string name="q_cinemas">Q\'s Cinemas</string>
+    <string name="q_cinemas_description">Q’s cinemas is centrally located at the heart of Kathmandu Durbarmarg. The multiplex is on the 5th floor of Rising mall and is equipped with world-class sound system pictures quality and service. It has been designed and built for providing the best cinema viewing experience. Q’s cinemas has two luxurious halls with very comfortable seats.</string>
+    <string name="q_cinemas_location">Rising Mall, Durbarmarg</string>
+    <string name="q_cinemas_contact">Contact: 01–4169201</string>
+
+    <string name="fcube_cinemas">Fcube Cinemas</string>
+    <string name="fcube_cinemas_description">The Fcube cinema hall is one of the newer cinema halls in Kathmandu equipped with cutting edge technologies like Dolby 3 Ware Digital sound systems and digital 2K projection view. While all the other best theatres are situated in the busiest parts of the town, this theatre is based at the other side, making it convenient for people to watch movies without having to travel much.</string>
+    <string name="fcube_cinemas_location">KL Tower, Chabahil</string>
+    <string name="fcube_cinemas_contact">Contact: 01–4468700</string>
+
+    <string name="cine_de_chef_cinemas">Cine de’ Chef</string>
+    <string name="cine_de_chef_cinemas_description">As their name suggests, Cine de Chef, are a combination of Cinema with Dining. When you watch movies with them, you are just not in a movie theatre, but you are in a cinematic hub, where you can enjoy all the facilities of 5-star restaurant serving, finger foods, Thai, French, Indian and Chef’s Special to add unparallel experience to movie watching.</string>
+    <string name="cine_de_chef_cinemas_location">Civil Trade Center, Sundhara</string>
+    <string name="cine_de_chef_cinemas_contact">Contact: 01–4257773</string>
+
+    <string name="gopiKrishna_cinema">Gopikrishna Cinema Hall</string>
+    <string name="gopiKrishna_cinema_description">Gopikrishna Cinema is one of the biggest and oldest cinema halls in Nepal. It has 7 screens and a seating capacity of 3000 approx. It also aims to promote Nepali movies as they showcase Nepali movies on a daily basis. Gopi Krishna provides 50% discount on morning shows and evening shows from Sunday to Thursday. </string>
+    <string name="gopiKrishna_cinema_location">Chabahil, Kathmandu</string>
+    <string name="gopiKrishna_cinema_contact">Contact: 01–4812393</string>
+
+    <string name="bsr_movies">BSR Movies</string>
+    <string name="bsr_movies_description">BSR Movies is the first movie theatre in Kathmandu to introduce the Dolby Atmos sound system. Dolby Atmos renders everything from dialogue to quiet scenes to whirlwind action with astonishing clarity, richness, detail and depth. BSR movies has 2 screens with capacity of 166 seats for each screen.</string>
+    <string name="bsr_movies_location">BG Mall, Gongabu, Kathmandu</string>
+    <string name="bsr_movies_contact">Contact: 01–4383292</string>
+
+    <string name="ini_north_cinemas">iNi North Cinemas</string>
+    <string name="ini_north_cinemas_description">INI North Cinemas is located in the Karmacharya Complex Gongabu providing two screens with a total capacity of 335 seats. iNi Cinemas presents cinema halls with bigger screens, stunning picture quality, luxurious seats with thrilling audio systems.</string>
+    <string name="ini_north_cinemas_location"> Karmacharya Complex, Gongabu, Kathmandu, Nepal</string>
+    <string name="ini_north_cinemas_contact">Contact: 01–4352325</string>
+    
+<!--    Shopping Malls in Kathmandu-->
+    
+    <string name="shopping_malls">Shopping Malls</string>
+    
+    <string name="city_center">City Center</string>
+    <string name="city_center_intro">The City Center Mall is one of the malls in Kathmandu that you will hear a lot about if you ask any local suggestions. This mall is situated in Kamalpokhari which is on the Northern side of the city.</string>
+    <string name="city_center_description">The ambience of the mall is excellent, and you can find several retailers selling different things. Everything from clothes to shoes to toys to electronics is available to you. Currently, the mall holds brands such as Puma, Woodland, Apple, Panasonic, etc.</string>
+    <string name="city_center_highlights">The food court also has got a nice variety and a comfortable space where you can sit and enjoy your food. It is also houses the Big Cinema where you can catch the latest movie.</string>
+    <string name="city_center_location">Pashupati Road, Kathmandu 44605, Nepal</string>
+    
+    <string name="civil_trade_centre_mall"> Civil Trade Centre (CTC) Mall</string>
+    <string name="civil_trade_centre_intro">If you want to discover good malls in Kathmandu, then it is evident for you to visit the CTC Mall, the largest in the city. One should visit this mall primarily because of the lifestyle brands that it carries. It is located in the Sundhara area of Kathmandu.</string>
+    <string name="civil_trade_centre_highlights">The mall currently has 175 stores along with Cine De Café, a multiplex and a food court spanning over 10,000 sq. Ft. They even have a space that is used as a playground for the children.</string>
+    <string name="civil_trade_centre_location">Sundhara (648.59 km) 00977 Kathmandu, Nepal</string>
+
+    <string name="kl_tower_and_multicomplex">K L Tower and Multicomplex</string>
+    <string name="kl_tower_and_multicomplex_intro">K L Tower is one of the malls in Kathmandu that follows the path of international standards. The mall is situated in Chabhil which is in a populated northern part of the city. Its 10.5 stories are full with options catered to any person visiting the mall.</string>
+    <string name="kl_tower_and_multicomplex_description">Visitors can choose to shop from some of the biggest retail brands present in the mall, like Reebok, Lee, Timex, Mini So, etc.</string>
+    <string name="kl_tower_and_multicomplex_highlights">One can also watch a movie at F-Cube Cinema or enjoy a meal in the food court overlooking a great view of the city. Children also get to enjoy the gaming zone present in this mall.</string>
+    <string name="kl_tower_and_multicomplex_location">KL Tower, Chuchchepati, Chabhil, Kathmandu</string>
+
+    <string name="civil_mall">Civil Mall</string>
+    <string name="civil_mall_intro">Among many other malls in Kathmandu, the Civil Mall is considered a great one, and it receives lots of crowds almost every day.</string>
+    <string name="civil_mall_description">You can find this mall in the Sundhara area of Kathmandu. The mall is a mix of many things as you get to shop from brands like Gini and Jony, Zara, W, Reebox and many others. The food court composes of a wide variety of multi-cuisine choices.</string>
+    <string name="civil_mall_highlights">The mall houses the QFX movies where people can watch national as well as international films throughout the day. Recently, an ice skating zone has also been added for extra excitement.</string>
+    <string name="civil_mall_location">Sundhara, Ratnapark, Kathmandu</string>
+
+    <string name="peoples_plaza">Peoples Plaza</string>
+    <string name="peoples_plaza_intro">If you want to shop till you drop, then you may wish to visit Peoples Plaza among other malls in Kathmandu. It is situated in Kichapokhari which is in the heart of the city. A unique thing about this mall is their floor wise distribution of the shops.</string>
+    <string name="peoples_plaza_highlights">Peoples Plaza mainly contains national brands and are affordable on the pockets. It houses KKFC, a delicious restaurant to savour some finger-licking chicken.</string>
+    <string name="peoples_plaza_location">New Road 218, Kathmandu 44600, Nepal</string>
+    
+    <string name="sherpa_mall">Sherpa Mall</string>
+    <string name="sherpa_mall_intro">The Sherpa Mall is present in the Durbar Marg area of Kathmandu, and it is most popular among the youths of the city. It is one of the malls in Kathmandu where you can hang out with your friends in the food court and have an excellent time.</string>
+    <string name="sherpa_mall_highlights">One can find many shopping options in this ranging from clothes to footwear to accessories. The open mall design makes it a beautiful place to engage with people while shopping.</string>
+    <string name="sherpa_mall_location">Durbar Marg, Kathmandu 44600, Nepal</string>
+
+    <string name="labim_mall">Labim Mall</string>
+    <string name="labim_mall_intro">Labim mall is another among the malls in Kathmandu that has adopted the open mall design. One can walk through the 200,000 square feet stretch of the area and find shops that they like.</string>
+    <string name="labim_mall_description">Labim Mall houses over 70 brands choices. The shops include United Colors of Benetton, Lush Addiction, Clarks, Converse, Sony, etc.</string>
+    <string name="labim_mall_highlights">It provides some great food options as well, which ranges everything from cafes to ice cream shops to KFC. If someone wants to catch a movie, they can do so in QFX Cinemas.</string>
+    <string name="labim_mall_location">Pulchowk, Lalitpur, Nepal</string>
+
+    <string name="united_world_trade_center">United World Trade Center</string>
+    <string name="united_world_trade_center_intro">United World Trade Center is one of the best malls present in Kathmandu as it has the most number of shops compared to any other mall. If you are in the mood to shop for a variety of things, then you can visit this mall.</string>
+    <string name="united_world_trade_center_description">Some of the brands present in the mall include Monalisa Exclusive Textiles, John Players, Landmark, Converse, and Fabulous.</string>
+    <string name="united_world_trade_center_highlights">One can even enjoy a good meal over here due to the different eateries present over here like Garlic Cafe &amp; Bar, Cafe de Valley, and Hot Breads. Visitors can also enjoy bowling at the United Bowling.</string>
+    <string name="united_world_trade_center_location"> Tripura Marg, Kathmandu 44614, Nepal</string>
+
+    <string name="rising_mall">Rising Mall</string>
+    <string name="rising_mall_intro">The Rising Mall is one of the new-age malls in Kathmandu that seek to serve a variety of customers. In Durbar Marg you can find this mall opposite the Royal Singhi Hotel.</string>
+    <string name="rising_mall_description">All the seven floors of the mall are full of beautiful stores that include brands such as Miniso, NYX, Wrangler, Forever 21, Arrow, etc.</string>
+    <string name="rising_mall_highlights">It has the Q’s Cinemas which provides a luxury experience of watching a new film. Then go to the food court and have a meal of choice from the selection of restaurants. The mall has a Chinese food court which accommodates about 200 people at a time.</string>
+    <string name="rising_mall_location">Durbarmarg, Kathmandu, 44600, Nepal</string>
+
+    <string name="times_square_mall">Times Square Mall</string>
+    <string name="times_square_mall_intro">If you do not feel like going to a huge mall, then the Times Square mall is one of the cosiest malls in Kathmandu.</string>
+    <string name="times_square_mall_description">You will have a pleasant experience in this four-storied mall, which has homely brands. Some of the options include JeansWest, Square Digital, Options, Baseman, NCell and many others.</string>
+    <string name="times_square_mall_highlights">A great thing about the Times Square Mall has to be its multi-cuisine food court which has shops like Mumbai Masala, Chunk Berry’s and Kathmandu Sapphire. The mall also hosts a live band performance every Friday.</string>
+    <string name="times_square_mall_location">Durbar Marg, Kathmandu</string>
+
+
+<!--    Resorts in Kathmandu-->
+
+    <string name="resorts">Resorts</string>
+
+    <string name="gokarna_forest_resort">Gokarna Forest Resort</string>
+    <string name="gokarna_forest_resort_description">Set within a whopping area of around 470 acres, the Gokarna Forest Resort offers a tranquil stay amid forest setting overlooking enchanting views of the Himalayas. Considered as one of the best resorts in Kathmandu, Gokarna Resort’s architectural style and design has been inspired by Rana and Malla royal palaces thus creating a sense of historic significance. The entire area surrounding the resort is rich in a variety of flora and fauna and animals like monkeys, spotted deer and birds can be seen around. \nDelve into a variety of activities here like horseback riding, golfing, cycling, birdwatching, jungle paintball games, spa treatments, or just relax in a tranquil ambience doing nothing and just admiring the beauty of nature. Also, relish the exotic flavors of local and international cuisines at Durbar Restaurant and drinks at 8848 Mt Bar and Patio whose name is named after Mount Everest whopping elevation.</string>
+    <string name="gokarna_forest_resort_rating">4.5</string>
+    <string name="gokarna_forest_resort_location">Nagpokhari Marg 390, Gokarneshwor 44600, Nepal</string>
+    <string name="gokarna_forest_resort_features">Dining and Bar, Golf, Spa, Jungle paintball games</string>
+
+    <string name="kankali_viewpoint_resort">Kankali Viewpoint Resort Pvt Ltd</string>
+    <string name="kankali_viewpoint_resort_description">Unlike the hotels in Nepal, the resorts here are more peaceful and offers access to myriad of adventures to guests so that they can enjoy a happy stay here. Kankali Viewpoint Resort Pvt Ltd is a family-friendly accommodation option available near Swayambhunath Temple in Kathmandu. Guests also get to enjoy a terrace from where amazing views can be witnessed along with facilities like 24*7 help desk, currency exchange and room service. \nOther than this, the resort also offers a garden, a restaurant and free parking space for guests who come here on their own vehicle. Barbecue and bar facilities can also be enjoyed by guests along with outdoor sports and paid car rental facility. The resort is located approximately 10 km from Kathmandu International airport which makes it one of the best Kathmandu resorts as it is easily accessible.</string>
+    <string name="kankali_viewpoint_resort_rating">N/A</string>
+    <string name="kankali_viewpoint_resort_location">Kankali Nagarjun -7, kathmandu, Nepal</string>
+    <string name="kankali_viewpoint_resort_features">24*7 help desk, Currency exchange, Barbecue and bar, Outdoor sports, Paid car rental</string>
+
+    <string name="thamel_eco_resort">Thamel Eco Resort</string>
+    <string name="thamel_eco_resort_description">Located in the picturesque land of Thamel, one of the best places to visit in Kathmandu, Thamel Eco Resort houses 43 different rooms like deluxe, standard rooms, family rooms and suites. There is also a yoga hall where you can enchant your senses and spend a peaceful time rejuvenating mind, body and soul. If you are looking for cheap resort in Kathmandu then it is a great option as you can to book a stay here at affordable prices in an ideal location which is just 8 km from Tribhuvan International Airport (TIA). With amenities like 24 hours Wi-Fi, Nepalese courtyard, spa and massages, free coffee/tea, free drinking water refill stations and others, one can expect a great stay at Thamel Eco Resort.</string>
+    <string name="thamel_eco_resort_rating">4.5</string>
+    <string name="thamel_eco_resort_location">Thamel, Kathmandu 44601, Nepal</string>
+    <string name="thamel_eco_resort_features">Spa and Massages, Yoga and Meditation Hall, 24hrs Internet Connection, Nepalese Courtyard</string>
+
+    <string name="dhulikhel_mountain_resort">Dhulikhel Mountain Resort</string>
+    <string name="dhulikhel_mountain_resort_description">If you wish to escape the ordinary and want to delve into peace and tranquility, then we suggest you to book a stay at Dhulikhel Mountain Resort from where breathtaking views of the Himalayan Ranges can also be enjoyed. Offering a luxurious accommodation in the lap of nature, Dhulikhel Mountain Resort also offers warm hospitality and let you know the warm culture of Nepal. The newly renovated cottages here reflect the village culture and architecture of Nepal which is very pleasant to watch and feel which makes it one of the best resorts near Kathmandu offering the best stay amid nature. \nRooms come with two options, deluxe twin bed and deluxe double bed with all the modern amenities and comforts needs for a plush stay. Enjoy the finest gastronomic experience here at the on-site restaurant that serves local and Asian flavors with amazing views of the landscape. Upon guest’s request, BBQ nights and bonfires can also be arranged for a total fun-filled experience.</string>
+    <string name="dhulikhel_mountain_resort_rating">4</string>
+    <string name="dhulikhel_mountain_resort_location">Khawa, Dhulikhel, Kathmandu, Nepal</string>
+    <string name="dhulikhel_mountain_resort_features">BBQ and Bnfire on request, On-site restaurant, Meeting and Event halls</string>
+
+    <string name="dwarika_resort">Dwarika Resort</string>
+    <string name="dwarika_resort_description">A great luxurious resort near Kathmandy Valley at a distance of around 35 km, Dwarika Resort, Dhulikhel offers a heavenly retreat away from the humdrum of city life. \nThere are different packages offered by Dwarika Resort which can be booked like revival and relaxation package wherein you will feel utmost tranquility and serenity as you will be given the best treatments that will help you rejuvenate your mind, body and soul. When you book s atay here, you can also enjoy several activities like Tibetan border excursions, Tinpipal Walk, Manegaon Walk, Namobuddha Walk to enjoy the true beauty of nature here. \nThe rich architecture of this resort truly defines the rich Nepalese heritage where rooms and suites are also designed keeping in mind the culture of Nepal. As a part of your stay here, you will be offered facilities like yoga and fitness center, pool, library, meeting rooms, wi-fi and business center.</string>
+    <string name="dwarika_resort_rating">5</string>
+    <string name="dwarika_resort_location">Dhulikhel 45200, Nepal</string>
+    <string name="dwarika_resort_features">Yoga and Fitness center, Pool, Library, Meeting rooms, Internet Connection, Business Center</string>
+
+    <string name="nepal_cottage_resort">Nepal Cottage Resort</string>
+    <string name="nepal_cottage_resort_description">One of the most affordable Kathmandu resorts is Nepal Cottage Resort which is located in Thamel, giving easy access to all the major attractions and also the best shopping in Nepal experience can be enjoyed in Thamel. The resort also features a garden area with a peaceful ambience where a great time can be enjoyed playing games or just admiring the soulful beauty of nature. The resort also boasts of facilities like a meeting hall that has a capacity to hold around 50 guests, foreign money exchange facilities, free parking, wheelchair friendly rooms, restaurant and bar, BBQ on special request, and other such services that will make your stay here a memorable one.</string>
+    <string name="nepal_cottage_resort_rating">5</string>
+    <string name="nepal_cottage_resort_location">Paknajol Marg, Kathmandu 44600, Nepal</string>
+    <string name="nepal_cottage_resort_features">Meeting halls, BBQ on special request, Restaurant and bar, Wheelchair friendly rooms</string>
+
+<!--    Some popular resorts outside Kathmandu-->
+
+    <string name="resorts_outside_kathmandu">Popular resorts outside Kathmandu</string>
+
+    <string name="green_eco_resort">Green Eco Resort</string>
+    <string name="green_eco_resort_description">Enjoy a relaxing retreat away from the hustle-bustle of city life by booking a stay at Green Eco Resort that is located surrounded by mountain ranges, adjacent to the gorgeous Phewa Lake which is one of the best attractions in Nepal. The resort offers 40 comfortable rooms offering stunning views of the surrounding landscape. This resort is best suited for those travelers who are seeking a peaceful stay amidst a tranquil setting and stunning views of the snow-capped peak. It is also very close to the Pokhara Airport which makes it a top resort in Kathmandu. Double, single and triple room options are available with amenities like tea/coffee maker, air-conditioner, LED TV, private balcony and loads more.</string>
+    <string name="green_eco_resort_rating">5</string>
+    <string name="green_eco_resort_location">Kirtipur 44600, Nepal</string>
+    <string name="green_eco_resort_features">Private balcony, LED TV, Tea/Coffee Maker, Close to Pokhara Airport</string>
+
+    <string name="taj_riverside_resort">Taj Riverside Resort &amp; Adventure Pvt. Ltd.</string>
+    <string name="taj_riverside_resort_description">One of the best resorts near Kathmandu at an approximate distance of 95 km, Taj Riverside Resort &amp; Adventure Pvt. Ltd. Is one-stop destination for all your recreational and entertainment needs. Offering a unique blend of adventurous and leisure activities, this resort is a perfect place to enjoy a stay at with friends or family. Indulging in different adventures is one of the best things to do in Kathmandu which you can enjoy here like hiking, fishing, horse riding, mountain biking, driving and other such activities. \nLocated in a peaceful ambience, Raj Riverside Resort offers deluxe AC room, standard room, suite AC room and tented camps for a comfortable stay to guests. The resort also offers a restaurant and a conference hall where guests can take importance meetings or discussions.</string>
+    <string name="taj_riverside_resort_rating">N/A</string>
+    <string name="taj_riverside_resort_location">Sunkoshi Rural Mancipality Mulkot-5, B.P Highway, Kathmandu 10115, Nepal</string>
+    <string name="taj_riverside_resort_features">Swimming Pool, Riverside Location, Conference Hall, Tented Camp, Restaurant</string>
+
+
+<!--    Casinos in Kathmandu-->
+
+    <string name="casinos">Casinos</string>
+
+    <string name="casino_rad">Casino Rad</string>
+    <string name="casino_rad_description">Casino Rad is one of the best casinos with exclusive high-end services in the most luxurious and elegant ambience of Hotel Radisson in Lazimpat of Kathmandu. Situated in an urban setting, Casino Rad features some of the most exciting gambling games with live performances and celebrity appearances. It also has Mega lucky draw offers. Some of the most popular games in Casino Rad Kathmandu are Roulette, Baccarat, Teen Patti, Poker, Slot Machine, Marriage, Kitty, Caribbean Stud Poker, Maag Patta etc. The incredible features of Casino Rad are it has a nice restaurant with the finest international delicacies, hotel facility which has around 260 classy and comfy rooms and suites, and it also has airport shuttle services. The Bar and tranquillity Spa are some other major features of this spa.</string>
+    <string name="casino_rad_location">Casino Rad is situated in Lazimpat, near the Hotel Tibet, adjacent to the former Royal Palace. Casino road is the part of Hotel Radisson in Kathmandu.</string>
+    <string name="casino_rad_timing">All days, every hour a week (24×7)</string>
+    <string name="casino_rad_contact">+977–1–4421288</string>
+
+    <string name="casino_anna">Casino Anna</string>
+    <string name="casino_anna_description">Casino Anna, associated with Hotel del’ Annapurna, is one of the popular casinos in Nepal. With a 12000 sq feet gaming space, Casino Anna holds around 40 table games and more than 200 slot machines. Some of the popular gambling games offered by this wonderful and happening casino are Baccarat, Roulette, Kitty, Paplu, Blackjack, and MahJong. The Casino features the hotel Annapurna with mind-blowing ambience and offers 187 rooms with modern amenities, Three restaurants, bars and attractive ambience in the Heart of Kathmandu. It also provides some sightseeings and Airport shuttle services. The USD or Nepalese rupees can be used as currencies in Casino Anna. It has 10 tables of Baccarat, Blackjack in eight tables, Flush in four tables, Paplu- The Indian Rummy in two tables, twelve tables of Roulette and four tables of Poker. The minimum gaming age here is 21 years. </string>
+    <string name="casino_anna_location">Casino Anna is located inside the Hotel del’ Annapurna. It is in Nepal’s premier street Durbarmarg.</string>
+    <string name="casino_anna_timing">Every day, 24 hours. (24×7)</string>
+    <string name="casino_anna_contact">+977–1–4228650</string>
+
+    <string name="casino_royale">Casino Royale</string>
+    <string name="casino_royale_description">Casino Royale is the prime and famous Casino of Nepal situated in the supreme standard of Hotel Yak and Yeti. Spreading in an area of 12000 sq. feet gaming space, this casino is one of the most fascinating and happening casinos of Nepal. It has around 20 table games and 40 gaming machines. Some of the most popular gambling games offered by Casino Royale are Roulette, Baccarat, Blackjack, Pontoon, and Flush (Kitty). The dance performances and live concerts with celebrities are held on the premises making it more beautiful. Since the casino is associated with Hotel Yak and Yeti, it offers 270 rooms and suites with modern amenities in the typical Nepali cultural heritage building. The bars and restaurants are amazing here and situated in the beautiful ambience in Nepal’s popular Durbarmarg.</string>
+    <string name="casino_royale_location">Durbarmarg, inside the Hotel yak and yeti.</string>
+    <string name="casino_royale_timing">It opens all day, every hour a week (24×7).</string>
+    <string name="casino_royale_contact">+977–1–4228481</string>
+
+    <string name="casino_pride_nepal">Casino Pride Nepal</string>
+    <string name="casino_pride_nepal_description">Formerly casino Tara, Casino Pride Nepal is the property of Hyatt Regency in Kathmandu Nepal. It has 21000 sq ft gaming space with a wonderful setting in the luxurious ambience of Hyatt regency. The Hotel has 270 luxurious rooms and suites with two restaurants and bars, a full-service spa and outdoor pool, and other amenities including Airport shuttle, sightseeing etc. The gaming options at casino Pride Nepal include poker, roulette, blackjack, and slot machines. There are around ten table games, 25 gaming machines, two poker tables and few other amenities including live dance and concerts. </string>
+    <string name="casino_pride_nepal_location">It is situated in Taragaun, Boudha in the luxurious complex of Hyatt Regency.</string>
+    <string name="casino_pride_nepal_timing">It opens 24×7.</string>
+    <string name="casino_pride_nepal_contact">+977–1–5178300</string>
+
+    <string name="casino_mahjong">Casino Mahjong</string>
+    <string name="casino_mahjong_description">Casino Mahjong is a popular name when it comes to gambling games in Nepal. It lies in the wonderful setting of Hotel Soaltee Crowne plaza. The major gamblings in Casino Mahjong are baccarat, blackjack, Flush, kitty (Russian Flush), Marriage, mini flush, Roulette, Slot Machines, Texas hold’em Poker etc. It also has some packages including Platinum Packages, gold packages, Silver packages and regular packages. The additional services this wonderful casino offers include good access for differently-abled persons, banking services and bars, first aid, free parking and customer intelligence. It also holds some lucky draws such as Mahjong Mela, IPL bettings etc. The high-class performances by celebrities, spas, cuisine, pub, luxury hotel with modern amenities are also available at this casino. </string>
+    <string name="casino_mahjong_location">Soaltee Mode, inside the luxurious Hotel Soaltee Crowne</string>
+    <string name="casino_mahjong_timing">It opens 24×7.</string>
+    <string name="casino_mahjong_contact">+977–9823099700</string>
+
+    <string name="millionaire_club">Millionaire’s Club</string>
+    <string name="millionaire_club_description">Millionaire’s Club and casino is one of the most popular casinos in Nepal. It is inside the luxury settlement of Hotel Shangri~La. It features 22 table games, 40 gaming machines, two poker tables and many more services. The gaming space of the Millionaire’s club and casino is 5000 Sq. Ft. The hotel Shangri~La has 100 rooms and suites with modern amenities, restaurants and bar, a full-service spa, outdoor pool, fitness centre, business centre and three meeting rooms. The major gamblings in this casino include Baccarat, Roulette, Paplu and Flush etc. It also features some tournaments such as slot tournaments, cash draws, lucky ball lucky draws, baccarat tournaments, roulette tournaments etc.</string>
+    <string name="millionaire_club_location">Lazimpat, inside the hotel Shangri~la.</string>
+    <string name="millionaire_club_timing">24×7</string>
+    <string name="millionaire_club_contact">+977–1–4002124</string>
+
+    <string name="ballyS_casino">Bally’s Casino</string>
+    <string name="ballyS_casino_description">Bally’s casino is another popular casino, situated in the central hub Thamel, nearby Lainchaur in the premises of hotel Malla. The casino features some of the popular gambling games such as roulette, baccarat, blackjack, Paplu, Rummy, Poker and slots etc. The nice ambience of Malla Hotel is another attraction to the casino enthusiasts. It is a luxury hotel with rooms with modern amenities, a relaxing pool, business centres, a pleasing garden and wonderful ambience. It also features some restaurants, fitness zone, beauty and spa, sports and event rooms, swimming pool and shuttle services etc. </string>
+    <string name="ballyS_casino_location">Lainchaur, near Thamel in the premises of Malla Hotel.</string>
+    <string name="ballyS_casino_timing">It opens 24×7.</string>
+    <string name="ballyS_casino_contact">+977–1–4433600</string>
+
+    <string name="deltin_royale">Deltin Royale</string>
+    <string name="deltin_royale_description">Deltin Royale is to be opened in the Marriott Hotel in Kathmandu. Marriott Hotel is a newly opened luxury hotel with 5-star accommodation in Kathmandu valley. Marriott is a contemporary hotel with 214 rooms with modern amenities, airport shuttle, a full-service spa, fitness centre and pool. The casino also offers the wonderful gambling experience in its super-luxury ambience of Marriott Hotel Kathmandu.</string>
+    <string name="deltin_royale_location"> Naagpokhari, near Naxal in the premises of Marriott Hotel.</string>
+    <string name="deltin_royale_timing"> It opens 24×7.</string>
+    <string name="deltin_royale_contact"> +977–980–1971616</string>
+
+    <string name="casino_waldo">Casino Waldo</string>
+    <string name="casino_waldo_description">Casino Waldo is a new casino in the wonderful luxury hotel Aloft. It is situated in the Heart of Thamel with mind blowing ambience and a fascinating environment. The Casino Waldo lies inside the Aloft Hotel.</string>
+    <string name="casino_waldo_location">Thamel, inside the luxurious Hotel Aloft</string>
+    <string name="casino_waldo_timing">It opens 24×7.</string>
+    <string name="casino_waldo_contact">+977–1–5252000</string>
+
+</resources>

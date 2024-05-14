@@ -1,0 +1,2 @@
+# Disclaimer
+These projects have different sources for starter code, I do not completely own all these projects. These are for educational learning purposes only. These projects or this repository does not intent to own complete projects, or make any false advertisement. These are my pratice projects which helped me to grow in android dev world. So they have place in this repository for reference purpose only. I am greatful to the material out there, and would like to thank all who made all these resources available!

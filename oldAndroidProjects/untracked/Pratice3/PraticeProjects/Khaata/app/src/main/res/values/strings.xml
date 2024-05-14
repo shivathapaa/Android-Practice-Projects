@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Khaata</string>
+
+    <string name="per_unit_caps">PER UNIT</string>
+    <string name="total_caps">TOTAL</string>
+
+    <string name="quantity">Quantity:</string>
+    <string name="nrs_currency">NRS</string>
+    <string name="total_records">Total records</string>
+
+
+    <string name="multiply_symbol">*</string>
+    <string name="equals_to_symbol">=</string>
+
+    <string name="category">Category</string>
+    <string name="expenses">Expenses</string>
+    <string name="note">Note</string>
+
+    <string name="add_category">Add category</string>
+    <string name="add_expense">Add expense</string>
+
+    <string name="from_category">from %s</string>
+    <string name="item">Item</string>
+    <string name="date">Date</string>
+    <string name="quantity_entry">Quantity</string>
+    <string name="volume">Volume</string>
+    <string name="currency">Currency</string>
+    <string name="unit">Unit</string>
+    <string name="amount_per_unit">Amount per unit</string>
+    <string name="total">Total: %s</string>
+
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="ok">Ok</string>
+    <string name="back">Back</string>
+
+</resources>

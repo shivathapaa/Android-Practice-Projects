@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PackageM3</string>
+    <string name="search_your_music">Search your music</string>
+    <string name="menu">menu</string>
+    <string name="profile">profile</string>
+    <string name="back_button">Back Button</string>
+    <string name="close">Close</string>
+    <string name="large_top_app_bar">Large Top App Bar</string>
+    <string name="centered_enter_always_topbar">Centered Enter Always TopBar</string>
+    <string name="edit">Edit</string>
+    <string name="actions">Actions</string>
+</resources>

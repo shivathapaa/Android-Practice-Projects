@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="surround_padding">16dp</dimen>
+    <dimen name="card_row">72dp</dimen>
+    <dimen name="card_surround">8dp</dimen>
+</resources>
