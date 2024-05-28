@@ -7,7 +7,6 @@ import androidx.room.PrimaryKey
 data class Movie(
     val id: Int,
     val category: String,
-
     val adult: Boolean,
     val backdrop_path: String,
     val genre_ids: List<Int>,
