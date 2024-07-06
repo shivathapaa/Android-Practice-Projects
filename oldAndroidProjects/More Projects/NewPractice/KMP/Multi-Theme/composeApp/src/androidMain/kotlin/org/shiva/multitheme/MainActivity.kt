@@ -17,6 +17,7 @@ class MainActivity : ComponentActivity() {
 
         setContent {
             App(
+                context = this,
                 dynamicColor = true,
                 darkTheme = isSystemInDarkTheme()
             )

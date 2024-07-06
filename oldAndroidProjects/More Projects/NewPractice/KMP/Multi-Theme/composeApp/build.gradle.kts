@@ -43,6 +43,7 @@ kotlin {
             implementation(compose.components.uiToolingPreview)
 
             implementation(libs.androidx.datastore.preferences)
+            implementation(libs.atomicfu)
         }
     }
 }

@@ -15,24 +15,53 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import data.local.DataStoreRepository
+import data.local.createDataStore
+import kotlinx.coroutines.flow.collectLatest
+import kotlinx.coroutines.launch
+import org.jetbrains.compose.ui.tooling.preview.Preview
 import theme.AppTheme
 import theme.MyThemeColor
 
 @Composable
+@Preview
 fun App(
+    context: Any? = null,
     darkTheme: Boolean,
     dynamicColor: Boolean,
 ) {
-    var themeSelection by remember { mutableStateOf("") }
+    val scope = rememberCoroutineScope()
+    val dataStoreRepository = remember { DataStoreRepository(dataStore = createDataStore(context)) }
+
+    // Bad practice - All these should be from viewModel
+    var themeSelection by remember { mutableStateOf("PINK") }
     var darkMode by remember { mutableStateOf(false) }
     var dynamicTheme by remember { mutableStateOf(false) }
+
+    LaunchedEffect(Unit) {
+        dataStoreRepository.readSelectedThemeColor().collectLatest {
+            themeSelection = it
+        }
+    }
+    LaunchedEffect(Unit) {
+        dataStoreRepository.readIsDarkModeSet().collectLatest {
+            darkMode = it
+        }
+    }
+    LaunchedEffect(Unit) {
+        dataStoreRepository.readIsDynamicColorSet().collectLatest {
+            dynamicTheme = it
+        }
+    }
 
     val selectedTheme = when (themeSelection) {
         "PINK" -> MyThemeColor.PINK
@@ -44,6 +73,13 @@ fun App(
         else -> MyThemeColor.YELLOW
     }
 
+
+    fun saveSelectedThemeColor(selectedThemeColor: String) {
+        scope.launch {
+            dataStoreRepository.saveSelectedThemeColor(selectedThemeColor = selectedThemeColor)
+        }
+    }
+
     AppTheme(
         darkTheme = darkMode,
         selectedTheme = selectedTheme,
@@ -52,16 +88,37 @@ fun App(
 //        NormalTest()
 
         ThemeSelectionButton(
-            onGreenClick = { themeSelection = "GREEN" },
-            onPinkClick = { themeSelection = "PINK" },
-            onYellowClick = { themeSelection = "YELLOW" },
-            onRedClick = { themeSelection = "RED" },
-            onOrangeClick = { themeSelection = "ORANGE" },
-            onNeoGreenClick = { themeSelection = "NEO" },
-            onDarkModeClick = { darkMode = !darkMode },
-            isDarkMode = darkTheme,
-            onDynamicThemeClick = { dynamicTheme = !dynamicTheme },
-            isDynamicTheme = dynamicTheme && dynamicColor
+            onGreenClick = {
+                saveSelectedThemeColor(selectedThemeColor = "GREEN")
+            },
+            onPinkClick = {
+                saveSelectedThemeColor(selectedThemeColor = "PINK")
+            },
+            onYellowClick = {
+                saveSelectedThemeColor(selectedThemeColor = "YELLOW")
+            },
+            onRedClick = {
+                saveSelectedThemeColor(selectedThemeColor = "RED")
+            },
+            onOrangeClick = {
+                saveSelectedThemeColor(selectedThemeColor = "ORANGE")
+            },
+            onNeoGreenClick = {
+                saveSelectedThemeColor(selectedThemeColor = "NEO")
+            },
+            onDarkModeClick = {
+                scope.launch {
+                    dataStoreRepository.saveIsDarkModeSet(isDarkModeSet = !darkMode)
+                }
+            },
+            isDarkMode = darkMode,
+            onDynamicThemeClick = {
+                scope.launch {
+                    dataStoreRepository.saveIsDynamicColorSet(isDynamicColorSet = !dynamicTheme)
+                }
+            },
+            isDynamicTheme = dynamicTheme && dynamicColor,
+            showDynamicButton = context != null
         )
     }
 }
@@ -78,10 +135,11 @@ fun ThemeSelectionButton(
     onDarkModeClick: () -> Unit,
     isDarkMode: Boolean,
     onDynamicThemeClick: () -> Unit,
-    isDynamicTheme: Boolean
+    isDynamicTheme: Boolean,
+    showDynamicButton: Boolean
 ) {
     Box(
-        modifier = modifier.fillMaxSize().background(MaterialTheme.colorScheme.surface),
+        modifier = modifier.fillMaxSize().background(MaterialTheme.colorScheme.background),
         contentAlignment = Alignment.Center
     ) {
         Column(
@@ -93,16 +151,16 @@ fun ThemeSelectionButton(
                 modifier = Modifier,
                 onClick = onDarkModeClick
             ) {
-                val textToShow = if (isDarkMode) "Light Mode" else "Dark Mode"
-
-                Text(text = textToShow)
+                Text(text = if (isDarkMode) "Light Mode" else "Dark Mode")
             }
-
-            FilterChip(
-                selected = isDynamicTheme,
-                onClick = onDynamicThemeClick,
-                label = { Text(text = "Dynamic Theme (Android)") }
-            )
+            // Don't show for IOS
+            if (showDynamicButton) {
+                FilterChip(
+                    selected = isDynamicTheme,
+                    onClick = onDynamicThemeClick,
+                    label = { Text(text = "Dynamic Theme (Android)") }
+                )
+            }
 
             Row(
                 modifier = Modifier.fillMaxWidth(),
@@ -133,7 +191,8 @@ fun ThemeSelectionButton(
             }
 
             Text(
-                modifier = Modifier.padding(top = 16.dp), text = "With match color"
+                modifier = Modifier.padding(top = 16.dp), text = "With match color",
+                color = MaterialTheme.colorScheme.onSurface
             )
             Row(
                 modifier = Modifier.fillMaxWidth(),
