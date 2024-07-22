@@ -41,6 +41,7 @@ import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import androidx.core.text.isDigitsOnly
 import com.shivathapaa.otpinput.ui.theme.OtpInputTheme
 
 class MainActivity : ComponentActivity() {
@@ -114,13 +115,17 @@ fun OTPInputScreen(
                     value = value,
                     onValueChange = { newValue ->
                         showOtp = false  /* Not good practice */
-                        if (newValue.length == otpLength) {
+                        if (newValue.length == otpLength) { //To use otp code copied from keyboard
                             for (i in otpValues.indices) {
                                 otpValues[i] =
-                                    if (i < newValue.length) newValue[i].toString() else ""
+                                    if (i < newValue.length && newValue[i].isDigit()) newValue[i].toString() else ""
                             }
-                            keyboardController?.hide()
-                            onOtpComplete(otpValues.joinToString(""))
+
+                            val finalOtpValues = otpValues.filter { it.isDigitsOnly() }
+                            if (otpValues.all { it.isNotEmpty() && it.isDigitsOnly() } && finalOtpValues.size == otpLength) {
+                                keyboardController?.hide()
+                                onOtpComplete(otpValues.joinToString(""))
+                            }
                         } else if (newValue.length <= 1) {
                             otpValues[index] = newValue
                             if (newValue.isNotEmpty()) {
