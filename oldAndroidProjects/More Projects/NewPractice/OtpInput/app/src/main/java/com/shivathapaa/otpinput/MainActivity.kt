@@ -114,7 +114,14 @@ fun OTPInputScreen(
                     value = value,
                     onValueChange = { newValue ->
                         showOtp = false  /* Not good practice */
-                        if (newValue.length <= 1) {
+                        if (newValue.length == otpLength) {
+                            for (i in otpValues.indices) {
+                                otpValues[i] =
+                                    if (i < newValue.length) newValue[i].toString() else ""
+                            }
+                            keyboardController?.hide()
+                            onOtpComplete(otpValues.joinToString(""))
+                        } else if (newValue.length <= 1) {
                             otpValues[index] = newValue
                             if (newValue.isNotEmpty()) {
                                 if (index < otpLength - 1) {
